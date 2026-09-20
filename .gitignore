@@ -23,3 +23,7 @@ yarn-error.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Backups locais (nao versionar)
+*.zip
+
